@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.dsh/
+.env
+.env.*
+*.tgz
+*.log
+*.sqlite*
